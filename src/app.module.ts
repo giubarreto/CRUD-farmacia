@@ -11,7 +11,7 @@ import { Module } from '@nestjs/common';
       port: 3306,
       username: 'root',
       password: 'root',
-      database: 'db_farmacia_bem_estar',
+      database: 'db_farmacia',
       entities: [],
       synchronize: true,
       logging: true,
