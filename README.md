@@ -29,9 +29,6 @@ MySql workbench (com TypeORM, se estiver usando)
 
 
 ## 📁 Estrutura do Projeto
-lua
-Copiar
-Editar
 .
 ├── src
 │   ├── produto/              # Módulo principal do CRUD
